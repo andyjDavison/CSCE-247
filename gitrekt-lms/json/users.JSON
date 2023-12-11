@@ -1,0 +1,137 @@
+[
+    {
+        "firstName": "Andy",
+        "lastName": "Davison",
+        "password": "123456",
+        "id": "3cbffdeb-9704-4415-bdc0-d561dce0733f",
+        "type": "student",
+        "email": "andyd.soccer@gmail.com",
+        "username": "aj-davison"
+    },
+    {
+        "firstName": "Mickey",
+        "lastName": "Mouse",
+        "password": "555533",
+        "id": "ca8fdfc4-f92e-40b4-9508-75680fdae460",
+        "type": "student",
+        "email": "mickey.mouse123@outlook.com",
+        "username": "mmouse123"
+    },
+    {
+        "firstName": "Buggs",
+        "lastName": "Bunny",
+        "password": "ILOVE^",
+        "id": "de483e99-4080-4986-be50-c51f950bb833",
+        "type": "student",
+        "email": "bbunny17@hotmail.com",
+        "username": "BBUNNY"
+    },
+    {
+        "firstName": "Doctor",
+        "lastName": "Suess",
+        "password": "1Fish2Fish",
+        "id": "6a9661bd-305d-4c5e-a525-66ce1ad4aa5a",
+        "type": "author",
+        "email": "docsuess@gmail.com",
+        "username": "Cat-In-The-Hat"
+    },
+    {
+        "firstName": "Callie",
+        "lastName": "Hribar",
+        "password": "phineas",
+        "id": "bfd4590a-b4f0-4562-bb5c-d7200730d8d0",
+        "type": "student",
+        "email": "chribar@email.sc.edu",
+        "username": "calliejh13"
+    },
+    {
+        "firstName": "Kuba",
+        "lastName": "Jerzmanowski",
+        "password": "123",
+        "id": "b1264778-ab06-4b3d-8ea9-88a82604bcf7",
+        "type": "student",
+        "email": "Koobman.kj@gmail.com",
+        "username": "BobLovesBuns"
+    },
+    {
+        "firstName": "Jeff",
+        "lastName": "Bezos",
+        "password": "money",
+        "id": "4537fe5f-bc7b-4e49-9862-55cf28952467",
+        "type": "author",
+        "email": "jeffman@hotmail.com",
+        "username": "baldy"
+    },
+    {
+        "firstName": "freddie",
+        "lastName": "carter",
+        "password": "carter",
+        "id": "27303f92-3f91-40f8-a238-9bc12c6cc2e9",
+        "type": "student",
+        "email": "fred",
+        "username": "fred"
+    },
+    {
+        "firstName": "hi",
+        "lastName": "hi",
+        "password": "hi",
+        "id": "2f222cd0-1925-4893-8616-302ded111df7",
+        "type": "student",
+        "email": "hi",
+        "username": "hi"
+    },
+    {
+        "firstName": "billy",
+        "lastName": "bob",
+        "password": "bob",
+        "id": "2bb5c4cc-3648-437b-89db-1303589d8a7b",
+        "type": "student",
+        "email": "bob",
+        "username": "bob"
+    },
+    {
+        "firstName": "blues",
+        "lastName": "clues",
+        "password": "clue",
+        "id": "be0d7ad6-e7c5-456e-864b-f0cd31dccf2d",
+        "type": "student",
+        "email": "bluesclues",
+        "username": "blue"
+    },
+    {
+        "firstName": "author",
+        "lastName": "mcAuthorson",
+        "password": "author",
+        "id": "3c86a206-a93e-4541-b601-cda8870c8d76",
+        "type": "author",
+        "email": "author",
+        "username": "author"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Wisdon",
+        "password": "1234",
+        "id": "f422ce1b-20b9-41b4-8a2e-dc02a4ff7216",
+        "type": "author",
+        "email": "jwisdom@gmail.com",
+        "username": "jwise"
+    },
+    {
+        "firstName": "Scout",
+        "lastName": "Solace",
+        "password": "1234",
+        "id": "7f17c20a-babc-44ed-b934-f7d7e8b287ca",
+        "type": "student",
+        "email": "scoutS@hotmail.com",
+        "username": "scout"
+    },
+    {
+        "firstName": "Allie Anderson",
+        "lastName": "Allie",
+        "password": "s",
+        "id": "e063ef80-048b-47c4-92d8-1aece5a3d6a3",
+        "type": "student",
+        "email": "a",
+        "username": "AllieAnderson"
+    }
+]
